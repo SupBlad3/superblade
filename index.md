@@ -3,6 +3,11 @@
 	<head>
 		<meta charset="utf-8" />
 		<title></title>
+		<style>
+		
+		*{padding:0;margin:0:}
+		
+		</style>
 	</head>
 	<body>
 		
