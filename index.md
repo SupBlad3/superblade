@@ -12,7 +12,8 @@
 	<body>
 		
 		<h1>目录</h1>
-		<p><a href="">20170109总结</a></p>
+		<p><a href="index.html
+">20170109总结</a></p>
 		
 	</body>
 </html>
