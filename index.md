@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		
-		<div style= "width:100px;height:100px;background-color:dodgerblue;"></div>
+		<div style= "width:100%;height:100%;background-color:dodgerblue;"></div>
 		
 	</body>
 </html>
